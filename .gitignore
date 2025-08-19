@@ -1,0 +1,43 @@
+# 系统文件
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Obsidian 配置文件（保留基础配置）
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/cache
+.obsidian/plugins/*/
+.obsidian/themes/*/
+
+# 历史记录文件（可选择性保留）
+.history/
+
+# 临时文件
+*.tmp
+*.temp
+*~
+
+# 日志文件
+*.log
+
+# 编辑器配置
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node.js（如果有相关文件）
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# 环境变量文件
+.env
+.env.local
+.env.*.local
