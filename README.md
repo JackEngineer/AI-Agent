@@ -7,18 +7,21 @@ AI-Agent 是一个专业的 AI 开发专家知识库项目，汇集了多个领�
 ## 功能特性
 
 ### 🚀 多技术栈覆盖
+
 - **Node.js 后端开发**：企业级后端应用开发指南
 - **Vue 前端开发**：现代前端技术栈最佳实践
 - **Telegram Bot 开发**：专业机器人应用开发经验
 - **通用前端开发**：跨框架前端开发规范
 
 ### 📚 专业知识体系
+
 - 完整的技术栈介绍和使用指南
 - 项目架构设计和最佳实践
 - 代码规范和开发流程
 - 性能优化和部署策略
 
 ### 🛠️ 实用工具集合
+
 - 项目模板和脚手架
 - 开发规范和代码风格指南
 - 常用工具和库推荐
@@ -41,6 +44,7 @@ AI-agent/
 ## 安装步骤
 
 ### 环境要求
+
 - Git 2.0+
 - 支持 Markdown 的编辑器（推荐 Obsidian、VS Code）
 
@@ -93,16 +97,19 @@ cd AI-Agent
 ## 技术栈详情
 
 ### Node.js 后端开发
+
 - **核心技术**：Node.js、TypeScript、Express、Koa、NestJS
 - **数据库**：PostgreSQL、MongoDB、Redis
 - **工具链**：Prisma、Jest、Docker、PM2
 
 ### Vue 前端开发
+
 - **核心技术**：Vue 3、TypeScript、Vite、Pinia
 - **UI 框架**：Element Plus、Ant Design Vue
 - **工具链**：Vue Router、Axios、ESLint
 
 ### Telegram Bot 开发
+
 - **核心技术**：Node.js、TypeScript、Telegraf.js
 - **数据库**：MongoDB、PostgreSQL、Redis
 - **部署**：Docker、PM2、云服务
@@ -114,6 +121,7 @@ cd AI-Agent
 ### 🤝 如何贡献
 
 1. **Fork 项目**
+
    ```bash
    # Fork 本仓库到你的 GitHub 账户
    # 然后克隆你的 Fork
@@ -121,6 +129,7 @@ cd AI-Agent
    ```
 
 2. **创建分支**
+
    ```bash
    # 创建新的功能分支
    git checkout -b feature/新功能名称
@@ -129,6 +138,7 @@ cd AI-Agent
    ```
 
 3. **提交更改**
+
    ```bash
    # 添加更改的文件
    git add .
@@ -140,6 +150,7 @@ cd AI-Agent
    ```
 
 4. **推送分支**
+
    ```bash
    git push origin feature/新功能名称
    ```
